@@ -5,14 +5,9 @@
 
 ## 💻 integrador-rms 
 
-O e-conect é o software de PDV da Socin uma Solução para frente de loja preparada para atender as necessidades varejistas dos mais diferentes portes.
-
-Além dos módulos naturais existentes em uma solução de frente de caixa, o e-conect possui diversas funcionalidades que ajudarão sua empresa a se destacar no mercado.Confira alguns benefícios:
-- Vai além do básico e tradicional: Possui Concentrador WEB, PDV Touch e PDV Móvel.
-- Capaz de atender desde uma única loja até grandes redes varejistas;
-- Possibilidade de adequar a solução para atender necessidades específicas;
-- Integrado com a maioria de ERPs disponíveis do mercado;
-- Baixo custo de investimento e manutenção.
+OBJETIVO
+Apresentar informações  sobre  as  integrações  de  cadastros  feitos  no ERPTOTVS RMS que serão utilizados no Frente de Loja e-conect e o envio demovimentos   de   vendas   ocorridas   no   Frente   de   Loja   e-conect   que   serãoprocessados no ERP TOTVS RMS. Leia este documento na integra, ele contém informações que estão associadasa todo o processo de integração entre os dois sistemas, explicando inclusivecomo funciona o processo completo.
+                 
 
 ## Tópicos
 
