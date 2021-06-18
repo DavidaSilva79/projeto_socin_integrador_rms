@@ -3,7 +3,7 @@
       <img src="https://avatars.githubusercontent.com/u/48964967?v=4 width="750px" height="400px"/>
 <p align="center"> 
 
-## 💻 E-conect
+## 💻 integrador-rms 
 
 O e-conect é o software de PDV da Socin uma Solução para frente de loja preparada para atender as necessidades varejistas dos mais diferentes portes.
 
