@@ -1,6 +1,7 @@
 
- <p align="center">
-<img src="https://static.wixstatic.com/media/b62a2d_974c250fd60542b1b2195291096a6c91~mv2.png" width="750px" height="400px"/></p>
+<p align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/48964967?v=4 width="750px" height="400px"/>
+<p align="center"> 
 
 ## 💻 E-conect
 
