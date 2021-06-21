@@ -32,6 +32,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL_v1.7-316192?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
   </a> 
+ <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring_Boot_2.5.1-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
+  </a>
  </p>
 
 ## 🚀 Como executar o e-conect
