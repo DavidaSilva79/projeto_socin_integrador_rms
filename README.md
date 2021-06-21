@@ -5,9 +5,10 @@
 
 ## 💻 Integrador-rms 
 
-OBJETIVO
-                 
-Apresentar informações  sobre  as  integrações  de  cadastros  feitos  no ERPTOTVS RMS que serão utilizados no Frente de Loja e-conect e o envio demovimentos   de   vendas   ocorridas   no   Frente   de   Loja   e-conect   que   serãoprocessados no ERP TOTVS RMS. Leia este documento na integra, ele contém informações que estão associadasa todo o processo de integração entre os dois sistemas, explicando inclusivecomo funciona o processo completo.
+O Integrador rms é responsável por fazer a integração entre ERP TOTVS RMS com o e-conect, através da integração os cadastros feitos no ERP podem ser utilizados no frente de loja e-conect, e o envio de movimentos de vendas ocorridas no frente de loja podem ser processados no ERP.
+
+
+
                  
 
 ## Tópicos
