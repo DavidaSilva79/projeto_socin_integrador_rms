@@ -6,6 +6,10 @@
 ## 💻 Integrador-rms 
 
 O Integrador rms é responsável por fazer a integração entre ERP TOTVS RMS com o e-conect, as integrações feitas entre os sistemas são executadas por rotinas que são responsáveis por ler tabelas temporárias do padrão ERP RMS denominado PDV PADRÃO e traduzi-las para as necessidades de uso do sistema de PDV e-conect que consequentemente envia as informações registradas nos PDV´s para o ERP, de forma que o cliente possa fazer a gestão da empresa.
+                 
+Através da integração os cadastros feitos no ERP podem ser utilizados no frente de loja e-conect e o envio de movimentos de vendas ocorridas no frente de loja podem ser processados no ERP.
+
+Não existe rotina da RMS que efetue alguma gravação em tabelas do e-conect, todas as informações são disponibilizadas em tabelas do ERP.
 
 ## Tópicos
 
