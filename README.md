@@ -3,9 +3,10 @@
       <img src="https://avatars.githubusercontent.com/u/48964967?v=4 width="750px" height="400px"/>
 <p align="center"> 
 
-## 💻 integrador-rms 
+## 💻 Integrador-rms 
 
 OBJETIVO
+                 
 Apresentar informações  sobre  as  integrações  de  cadastros  feitos  no ERPTOTVS RMS que serão utilizados no Frente de Loja e-conect e o envio demovimentos   de   vendas   ocorridas   no   Frente   de   Loja   e-conect   que   serãoprocessados no ERP TOTVS RMS. Leia este documento na integra, ele contém informações que estão associadasa todo o processo de integração entre os dois sistemas, explicando inclusivecomo funciona o processo completo.
                  
 
