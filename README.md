@@ -5,7 +5,8 @@
 
 ## 💻 Integrador-rms 
 
-o Integrador RMS foi desenvolvido para integrar o módulo Importação de Movimentos do produto RMS-Retail Cloud.
+o Integrador RMS foi desenvolvido para integrar o módulo Importação de Movimentos do produto RMS-Retail Cloud, tudo que é feito no ponto de venda(PDV) sobe para o concentrador loja e matriz, e o integrador-rms, recebe os movimentos de venda, sangria, nfce e sat e saida operador.
+                 
 Para a integração com o módulo de Importação de movimentos da TOTVs, estão integrados os seguintes métodos:
 - EnviarMovimentos: Método responsável por importar os dados de um ou mais movimentos
 - EnviarSangrias: Método responsável por importar sangrias.
