@@ -5,14 +5,14 @@
 
 ## 💻 Integrador-rms 
 
-o Integrador RMS foi desenvolvido para integrar módulo Importação de Movimentos do produto RMS-Retail Cloud.
+o Integrador RMS foi desenvolvido para integrar o módulo Importação de Movimentos do produto RMS-Retail Cloud.
 Para a integração com o módulo de Importação de movimentos da TOTVs, estão integrados os seguintes métodos:
 - EnviarMovimentos: Método responsável por importar os dados de um ou mais movimentos
 - EnviarSangrias: Método responsável por importar sangrias.
 - EnviarNFCeSAT: Método responsável por importar NFC-e e SAT.
 - EnviarSaidaOperador: Envia as saídas de operadores para serem importadas na base de dados do RMS Retail.
 
-Para fazer a integração entre os produtos e usado o protocolo de comunicação SOAP usando XML.
+Para fazer a integração entre os produtos e usado o protocolo de comunicação SOAP que permite representar tipos de dados em XML..
 
 
 ## Tópicos
