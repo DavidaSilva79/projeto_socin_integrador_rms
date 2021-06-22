@@ -12,7 +12,7 @@ Para a integração com o módulo de Importação de movimentos da TOTVs, estão
 - EnviarNFCeSAT: Método responsável por importar NFC-e e SAT.
 - EnviarSaidaOperador: Envia as saídas de operadores para serem importadas na base de dados do RMS Retail.
 
-Para fazer a integração entre os produtos e usado o protocolo de comunicação SOAP que permite representar tipos de dados em XML..
+Para fazer a integração entre os produtos é usado o protocolo de comunicação SOAP que permite representar tipos de dados em XML..
 
 
 ## Tópicos
