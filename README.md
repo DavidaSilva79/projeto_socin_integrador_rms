@@ -48,6 +48,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
    <li><a href="https://projectlombok.org/">
     <img src="https://img.shields.io/badge/Lombok-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
   </a></li>
+ <li><a href="https://www.w3.org/TR/soap/">
+    <img src="https://img.shields.io/badge/soap-8BC0D0.svg?&style=for-the-badge&logo=&logoColor=white" alt="soap">
+  </a></li>
+                                                                                                                     
+                                                                                                                     
                                                                                                                                             
  </ul>                                                                                                                                           
 
@@ -67,11 +72,7 @@ Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
 
 ### 🎁 Como liberar um pacote
 
-- Para liberar pacotes para o desenvolvimento do concentrador basta buildar o arquivo Econect-Concentrador/ant/build-econect.conc.xml
-- os pacotes .jar são gerados no diretório /usr/socin/econect/conc/lib
-
-- Para liberar pacotes de instalação basta buildar o arquivo Econect-Build/ant/build.xml
-- os pacotes .jar são gerados no diretório /usr/socin/econect/build/dist/V_RLS_VERSAO/Econect-Concentrador/instalador
+🚧 Em construção... 🚧
 
 ## 💫 Features
 
