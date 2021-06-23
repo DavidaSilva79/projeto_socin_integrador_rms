@@ -41,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/Spring_Boot_2.5.1-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
   </a>
 <a href="https://maven.apache.org/">
-    <img src="https://img.shields.io/badge/Apache Maven_2.5.1-%FF3366.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
+    <img src="https://img.shields.io/badge/Apache Maven-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
   </a>
                                                                                                                                             
  </p>
