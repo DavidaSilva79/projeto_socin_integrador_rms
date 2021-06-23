@@ -29,22 +29,28 @@ Para fazer a integração entre os produtos é usado o protocolo de comunicaçã
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
+                 
 
-<p align="left"> 
-  <a href="https://www.java.com">
+
+<ul> 
+  <li><a href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
-  </a>
- <a href="https://www.mysql.com">
+  </a></li>
+  <li><a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL_v1.7-316192?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  </a> 
- <a href="https://spring.io/projects/spring-boot">
+  </a> </li>
+  <li><a href="https://spring.io/projects/spring-boot">
     <img src="https://img.shields.io/badge/Spring_Boot_2.5.1-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
-  </a>
-<a href="https://maven.apache.org/">
+  </a></li>
+  <li><a href="https://maven.apache.org/">
     <img src="https://img.shields.io/badge/Apache Maven-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
-  </a>
+  </a></li>
+   <li><a href="https://projectlombok.org/">
+    <img src="https://img.shields.io/badge/Lombok-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
+  </a></li>
                                                                                                                                             
- </p>
+ </ul>                                                                                                                                           
+
 
 ## 🚀 Como executar o e-conect
 
