@@ -62,7 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina o e-conect, Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem,
-além disto é bom ter um editor para trabalhar com o código como Eclipse com Lombok ou o Spring Tools Suite.
+além disto é bom ter um editor para trabalhar com o código como Eclipse com Lombok ou o Spring Tools Suite e ter a Url do rms cloud do cliente .
 
 ### 🎲 Executando o e-conect
 
