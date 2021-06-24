@@ -68,6 +68,8 @@ além disto é bom ter um editor para trabalhar com o código como Eclipse com L
 
 Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
 
+https://github.com/socin-econect/integrador-rms/blob/master/doc/integrador_docx.pdf
+
 🚧 Em construção... 🚧
 
 ### 🎁 Como liberar um pacote
