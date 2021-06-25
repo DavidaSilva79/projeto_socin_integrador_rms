@@ -50,25 +50,26 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </a></li>
  <li><a href="https://www.w3.org/TR/soap/">
     <img src="https://img.shields.io/badge/soap-8BC0D0.svg?&style=for-the-badge&logo=&logoColor=white" alt="soap">
-  </a></li>
-                                                                                                                     
-                                                                                                                     
-                                                                                                                                            
+  </a></li>                                 
  </ul>                                                                                                                                           
 
 
-## 🚀 Como executar o e-conect
+## 🚀 Como executar o integrador RMS 
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina o e-conect, Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem,
-além disto é bom ter um editor para trabalhar com o código como Eclipse com Lombok ou o Spring Tools Suite e ter a Url do rms cloud do cliente .
+além disto é bom ter um editor para trabalhar com o código como Eclipse ou o Spring Tools Suite em ambos é necessario instalar e configurar o lombok.
 
-### 🎲 Executando o e-conect
+
+### 🎲 Executando o integrador RMS 
 
 Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
 
+Observação: Após importar o projeto na IDE no diretório integrador-rms/ aplicacao/src/main/resources/ no arquivo application.properties configurar a conexão com o banco do concentrador e outros parâmetros se necessário.
+                                                                                                                 
 https://github.com/socin-econect/integrador-rms/blob/master/doc/integrador_docx.pdf
+                                                                                                                 
 
 ### 🎁 Geração de executavel produção
                                                                                                                  
