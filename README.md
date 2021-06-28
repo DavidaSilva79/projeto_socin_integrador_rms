@@ -43,13 +43,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/Spring_Boot_2.5.1-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
   </a></li>
   <li><a href="https://maven.apache.org/">
-    <img src="https://img.shields.io/badge/Apache Maven-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
+    <img src="https://img.shields.io/badge/Apache Maven_3.8.1-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
   </a></li>
    <li><a href="https://projectlombok.org/">
-    <img src="https://img.shields.io/badge/Lombok-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
+    <img src="https://img.shields.io/badge/Lombok_1.18.12-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
   </a></li>
  <li><a href="https://www.w3.org/TR/soap/">
-    <img src="https://img.shields.io/badge/soap-8BC0D0.svg?&style=for-the-badge&logo=&logoColor=white" alt="soap">
+    <img src="https://img.shields.io/badge/soap_1.4.2-8BC0D0.svg?&style=for-the-badge&logo=&logoColor=white" alt="soap">
   </a></li>                                 
  </ul>                                                                                                                                           
 
